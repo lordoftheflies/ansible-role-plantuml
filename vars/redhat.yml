@@ -1,0 +1,4 @@
+---
+# roles/plantuml/vars/debian.yml
+
+plantuml_package_extension: 'rpm'

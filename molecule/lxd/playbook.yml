@@ -1,0 +1,9 @@
+---
+- name: Converge
+  hosts: all
+  vars:
+    - plantuml_deployment_users_home: /root
+    - plantuml_testing_provider: lxd
+
+  roles:
+    - plantuml

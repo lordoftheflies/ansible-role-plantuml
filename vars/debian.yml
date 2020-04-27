@@ -1,0 +1,5 @@
+---
+# roles/plantuml/vars/debian.yml
+
+# Debian specific vars
+plantuml_package_extension: 'deb'
